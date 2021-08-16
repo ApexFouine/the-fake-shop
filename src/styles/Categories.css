@@ -1,0 +1,10 @@
+.tfs-categories{
+    width: 25%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.tfs-underline:hover{
+    text-decoration: underline;
+}

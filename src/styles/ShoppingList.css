@@ -1,3 +1,6 @@
+.tfs-list{
+    width:100%;
+}
 .tfs-product-list{
     display: flex;
     flex-direction: row;

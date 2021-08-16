@@ -10,9 +10,13 @@ footer{
 }
 
 .tfs-infos{
-    font-weight: 500;
+    font-weight: 400;
     display: flex;
     flex-wrap: wrap;
+}
+.ts-infos-bold{
+	font-weight: 500;
+	text-decoration: underline;
 }
 
 .tfs-footer-end{
