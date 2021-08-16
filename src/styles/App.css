@@ -1,0 +1,8 @@
+.App {
+  color: #373A36;
+  background-color: #E6E2DD;
+  font-family: 'Roboto', sans-serif;
+}
+.App-show-cart{
+  display: flex;
+}

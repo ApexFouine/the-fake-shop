@@ -1,0 +1,30 @@
+.full-cart{
+    width: 100%;
+    text-align: right;
+    background-color: #373A36;
+    padding-right: 10px;
+}
+
+.empty-cart{
+    text-align: right;
+}
+
+.font-color{
+    color: #E6E2DD;
+}
+h2{
+    border-bottom: 1px solid white;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: #E6E2DD;
+    border: none;
+    border-radius: 25px;
+}
+button:hover{
+    
+    -webkit-box-shadow: 2px 2px 13px -6px #E6E2DD; 
+    box-shadow: 2px 2px 13px -6px #E6E2DD;
+    
+}

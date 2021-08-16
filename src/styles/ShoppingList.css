@@ -1,0 +1,11 @@
+.tfs-product-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.fas:hover{
+    -webkit-box-shadow: 5px 5px 17px -6px rgba(0,0,0,0.42); 
+    box-shadow: 5px 5px 17px -6px rgba(0,0,0,0.42);
+}

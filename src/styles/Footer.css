@@ -1,0 +1,20 @@
+footer{
+	padding: 12px;
+	border-top: solid 3px #373A36;
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: column;
+	align-items: center;
+	font-weight: 500;
+    background-color: #D48166;
+}
+
+.tfs-infos{
+    font-weight: 500;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tfs-footer-end{
+    margin: 20px 12px;
+}
